@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Stiti Pragyan Behera
 
-A passionate **Web Developer**, **Data Science Explorer**, and **Cloud Computing Enthusiast**. I love building user-centric web applications, working with data-driven insights, and leveraging cloud tools to scale intelligent systems.
+A passionate **Web Developer**, **Data Science Explorer**. I love building user-centric web applications, working with data-driven insights, and leveraging cloud tools to scale intelligent systems.
 
 ---
 
