@@ -3,9 +3,9 @@
 
 # 👋 Hey, I'm **Stiti Pragyan Behera**
 
-📍 India | 🎓 B.Tech CSE @ KIIT | 🚀 Data Science + Full-Stack Development
+📍BBSR | B.Tech CSE @KIIT | AI/ML + Data Science + Full-Stack Development
 
-I build things that solve real problems — not just assignments.  
+I build things that solve real problems not just assignments.  
 Currently improving my ML fundamentals, strengthening DSA, and developing full-stack + AI-integrated projects.
 
 ---
@@ -19,7 +19,7 @@ Currently improving my ML fundamentals, strengthening DSA, and developing full-s
 ## 🛠️ Skills
 
 ### 🔹 Programming
-`Python` `SQL` `JavaScript` `C`
+`Python` `SQL` `Java` `JavaScript`
 
 ### 🔹 Data Science & Machine Learning
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-Learn` `Jupyter` `Power BI`
@@ -28,7 +28,7 @@ Currently improving my ML fundamentals, strengthening DSA, and developing full-s
 `React` `Node.js` `Express.js` `MongoDB` `HTML` `CSS`
 
 ### 🔹 Tools
-`Git` `GitHub` `Linux` `Docker (learning)` `VS Code` `Postman` `Figma`
+`Git` `GitHub` `Linux` `Docker` `VS Code` `Postman` `Figma`
 
 ---
 
