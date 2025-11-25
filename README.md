@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Profile Banner"/>
-</p>
 
 ---
 
@@ -17,8 +14,6 @@ Currently improving my ML fundamentals, strengthening DSA, and developing full-s
 
 - **LinkedIn:** https://www.linkedin.com/in/stitipragyan-behera/
 - **LeetCode:** https://leetcode.com/u/stitipragyan_behera/
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME  
-
 ---
 
 ## 🛠️ Skills
