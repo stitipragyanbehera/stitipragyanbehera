@@ -52,23 +52,11 @@ Currently improving my ML fundamentals, strengthening DSA, and developing full-s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## 🧭 Current Goals
 
-- Solve **500+ LeetCode problems**
-- Build **3 well-structured ML projects**
+- Solve **400+ LeetCode problems**
+- Build **10+ well-structured ML projects**
 - Deploy applications with **CI/CD + backend auth**
 - Improve system thinking, speaking, and coding consistency
 
@@ -79,7 +67,4 @@ Currently improving my ML fundamentals, strengthening DSA, and developing full-s
 > _"Consistency builds what motivation can’t."_
 
 ---
-
-📌 Banner and design assets in this profile are original & intentional.  
-Quality > noise.
 
